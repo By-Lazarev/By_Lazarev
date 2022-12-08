@@ -1,2 +1,1 @@
-# By-Lazarev
-![Codewars](https://github.r2v.ch/codewars?user=By-Lazarev)
+![Codewars](https://github.r2v.ch/codewars?user=by_Lazarev)
